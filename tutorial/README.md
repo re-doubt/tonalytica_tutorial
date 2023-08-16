@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/1zzvW5N4/tutorial.png" width="200">
+<img src="https://i.postimg.cc/1zzvW5N4/tutorial.png" width="500">
 
 ## Table of Contents
 
