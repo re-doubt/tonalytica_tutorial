@@ -36,6 +36,8 @@ Charts: Line, Bar, Area, Pie, Scatter; Boxplot; Cohort; Sunburst; Word Cloud; Sa
 
 [User Guide](./tutorial/TONalytica_User_Guide.pdf)
 
+[Query Examples](./examples/README.md)
+
 Product: https://tonalytica.redoubt.online/ 
 
 Official Documentation (incl. Python/JS SDK):https://docs.tonalytica.redoubt.online/
