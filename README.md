@@ -35,3 +35,6 @@ Documentation (incl. Python/JS SDK):https://docs.tonalytica.redoubt.online/
 Python SDK: https://pypi.org/project/tonalytica-client/ 
 
 Dashboards samples: https://beta.redoubt.online/research 
+
+
+[**Aknowledgement:** This tutorial has been funded by TON Footstep #287](https://github.com/ton-society/ton-footsteps/issues/287)
