@@ -28,9 +28,15 @@ Easily visualize your results in various formats: chart, cohort, pivot table, bo
 Charts: Line, Bar, Area, Pie, Scatter; Boxplot; Cohort; Sunburst; Word Cloud; Sankey; Map; Counter; Pivot Table; Funnel. 
 
 
+## Links
+
+Quickstart: [](./tutorial/TONalytica_Quickstart.pdf)
+
+User Guide: [](./tutorial/TONalytica_User_Guide.pdf)
+
 Product: https://tonalytica.redoubt.online/ 
 
-Documentation (incl. Python/JS SDK):https://docs.tonalytica.redoubt.online/
+Official Documentation (incl. Python/JS SDK):https://docs.tonalytica.redoubt.online/
 
 Python SDK: https://pypi.org/project/tonalytica-client/ 
 
