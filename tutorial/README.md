@@ -1,4 +1,4 @@
-![Tutorial](../content/tutorial.png | width=200)
+![Tutorial](../content/tutorial.png)
 
 
 
