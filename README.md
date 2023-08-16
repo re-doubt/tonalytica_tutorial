@@ -1,6 +1,7 @@
 # TONalytica User Guide
 
-TONalytica is a web-based platform that allows you to query TON blockchain data and aggregate it into beautiful dashboards.
+[TONalytica](https://tonalytica.redoubt.online/) is a web-based platform that allows you to query TON blockchain data and aggregate it into beautiful 
+dashboards.
 
 TON are open and transparent, but TVM blockchains are unique—making it difficult to understand, ingest, and aggregate data. TONalytica gives you the proper tools to analyze cross-chain data for different tokens, wallets, and protocols. You can also easily share your work with the community.
 
@@ -28,7 +29,9 @@ Charts: Line, Bar, Area, Pie, Scatter; Boxplot; Cohort; Sunburst; Word Cloud; Sa
 
 
 Product: https://tonalytica.redoubt.online/ 
-Documentation (incl. Python/JS SDK):https://docs.tonalytica.redoubt.online/ 
+
+Documentation (incl. Python/JS SDK):https://docs.tonalytica.redoubt.online/
+
 Python SDK: https://pypi.org/project/tonalytica-client/ 
 
 Dashboards samples: https://beta.redoubt.online/research 
