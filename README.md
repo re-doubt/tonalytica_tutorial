@@ -13,7 +13,7 @@ TON are open and transparent, but TVM blockchains are unique—making it difficu
 - Schedule auto-update times for results you rely on
 - Use query results as data sources to join different databases
 
-[SQL Editor](./content/editor.png)
+![SQL Editor](./content/editor.png)
 
 ### Visualize as you will & create amazing dashboards:
 
