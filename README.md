@@ -30,9 +30,9 @@ Charts: Line, Bar, Area, Pie, Scatter; Boxplot; Cohort; Sunburst; Word Cloud; Sa
 
 ## Links
 
-Quickstart: [](./tutorial/TONalytica_Quickstart.pdf)
+[Quickstart](./tutorial/TONalytica_Quickstart.pdf)
 
-User Guide: [](./tutorial/TONalytica_User_Guide.pdf)
+[User Guide](./tutorial/TONalytica_User_Guide.pdf)
 
 Product: https://tonalytica.redoubt.online/ 
 
